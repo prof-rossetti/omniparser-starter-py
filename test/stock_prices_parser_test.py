@@ -1,3 +1,4 @@
+import os
 
 from omniparser.stock_prices_parser import calculate_latest_closing_price_from_json
 

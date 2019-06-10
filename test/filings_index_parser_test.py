@@ -1,3 +1,5 @@
+import os
+
 from omniparser.filings_index_parser import BASE_URL, find_filing_url
 
 def test_base_url():

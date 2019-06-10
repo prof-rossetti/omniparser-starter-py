@@ -1,5 +1,3 @@
-
-
 import os
 
 from omniparser.gradebook_parser import (
